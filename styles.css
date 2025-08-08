@@ -614,7 +614,7 @@ input:focus, select:focus, textarea:focus {
 
 /* Footer */
 .footer {
-    background: #1f2937;
+    background: #131923;
     color: white;
     padding: 80px 0 24px;
 }
@@ -646,7 +646,7 @@ input:focus, select:focus, textarea:focus {
 }
 
 .footer-section p {
-    color: #9ca3af;
+    color: #fff;
     margin-bottom: 24px;
 }
 
@@ -673,7 +673,7 @@ input:focus, select:focus, textarea:focus {
 }
 
 .footer-section a {
-    color: #9ca3af;
+    color: #fff;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -687,7 +687,7 @@ input:focus, select:focus, textarea:focus {
     align-items: center;
     gap: 12px;
     margin-bottom: 12px;
-    color: #9ca3af;
+    color: #fff;
 }
 
 .contact-item svg {
@@ -698,7 +698,7 @@ input:focus, select:focus, textarea:focus {
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
-    color: #9ca3af;
+    color: #fff;
 }
 
 .emergency-notice {
@@ -714,7 +714,7 @@ input:focus, select:focus, textarea:focus {
     padding-top: 24px;
     border-top: 1px solid #374151;
     text-align: center;
-    color: #9ca3af;
+    color: #fff;
 }
 
 /* Animations */
